@@ -1,0 +1,8 @@
+Name                 Product              Brand                     Serial                    Price
+----------------------------------------------------------------------------------------------------------------
+(1) ALCOHOL          Beer                 Brewvale                  ALC00770             PHP   100.00
+(2) CHICKEN          Whole                Henvale                   CHI00740             PHP   155.00
+(3) CANNED_GOODS     Peas                 Canistry                  CAN00947             PHP   220.00
+
+Total Price:	PHP   475.00
+Discounted Price:	PHP   400.00

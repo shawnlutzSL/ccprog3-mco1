@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public abstract class Amenity {
     protected String type;
     protected Tile location;
@@ -7,7 +9,7 @@ public abstract class Amenity {
         this.location = location;
     }
 
-    public abstract void interact(Shopper shopper);
+    public abstract void interact(Shopper shopper, Scanner scanner, Supermarket market);
 
     public String getType() {
         return type;
